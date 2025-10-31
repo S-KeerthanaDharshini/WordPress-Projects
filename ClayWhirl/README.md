@@ -14,11 +14,18 @@ The site focuses on clean aesthetics, simple navigation, and a visually engaging
 - Built using the Astra theme in WordPress  
 
 ## 🔗 Live Demo
-👉 [View Website](http://potteryshop.lovestoblog.com/)
+👉 [ClayWhirl - A pottery themed website](http://potteryshop.lovestoblog.com/)
 
 ## 🖼️ Preview
+![ClayWhirl Homepage](https://github.com/S-KeerthanaDharshini/WordPress-Projects/blob/main/ClayWhirl/wordproject.png?raw=true)
 
 
 ## 📚 Learning Outcome
 Gained hands-on experience in building, designing, and customizing WordPress websites using themes and plugins.
+
+
+## Contact
+**Keerthana Saravanan**  
+📧 keerthanasaravanan215@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/keerthana211701/)
 
